@@ -46,3 +46,6 @@ int main() {
     cout<<sum;  
     return 0;
 }
+              ![Screenshot (133)](https://user-images.githubusercontent.com/90500831/137640427-8f7d63d2-a10c-4340-b9dd-a8baa45054a0.png)
+              
+![Screenshot (134)](https://user-images.githubusercontent.com/90500831/137640431-59a88d77-7a33-4935-b3ca-f9acc42bed71.png)
