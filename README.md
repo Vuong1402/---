@@ -39,7 +39,6 @@ int main() {
         swap(b[n2],b[j]); 
     } 
     } 
-
     sum=0; 
     for (int i=1; i<=n; i++) 
         sum=sum+a[i]*b[i]; 
