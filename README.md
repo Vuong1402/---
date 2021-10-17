@@ -1,3 +1,4 @@
+
 #include <iostream>
 #include <cstring>
 int i,k,a[104],b[104],x,n2,n,sum;
